@@ -171,7 +171,8 @@ body{
 }
 .main-nav-list{
     margin-left: 93px;
-    display: flex;}
+    display: flex;
+}
 .main-nav-item:not(:last-child){
     margin-right: 50px;
 }
