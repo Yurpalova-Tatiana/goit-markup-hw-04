@@ -453,9 +453,7 @@ body{
 .address-footer{
     margin-top: 20px;
 }
-.address-list{
-    
-}
+
 
 .address-list-item:not(:last-child){
     margin-bottom: 9px;
